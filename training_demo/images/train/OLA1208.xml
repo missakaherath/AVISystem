@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>OLA1208.jpg</filename>
+	<path>C:\Users\Missaka\Documents\TensorFlow\workspace\training_demo\images\OLA1208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>495</ymin>
+			<xmax>729</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

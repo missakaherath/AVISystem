@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>GWT2180.jpg</filename>
+	<path>C:\Users\Missaka\Documents\TensorFlow\workspace\training_demo\images\GWT2180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>719</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>302</ymin>
+			<xmax>767</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

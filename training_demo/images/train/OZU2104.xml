@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>OZU2104.jpg</filename>
+	<path>C:\Users\Missaka\Documents\TensorFlow\workspace\training_demo\images\OZU2104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>663</ymin>
+			<xmax>785</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>
